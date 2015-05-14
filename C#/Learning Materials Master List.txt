@@ -1,0 +1,28 @@
+C# Learning Materials. (All files stored in /Git/Test Code Please Ignore/C#)
+
+Full course outline for C# Fundamentals for Absolute Beginners (by Bob Tabor):
+Mod 01: Series Introduction-------------------------------------------------------------- Complete
+Mod 02: Installing Visual Studio Express 2013 for Windows Desktop------------------------ Complete
+Mod 03: Creating Your First C# Program--------------------------------------------------- Complete (HelloWorld.cs)
+Mod 04: Dissecting the First C# Program You Created-------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/04
+Mod 05: Quick Overview of the Visual C# Express Edition IDE------------------------------
+Mod 06: Declaring Variables and Assigning Values Duration--------------------------------
+Mod 07: Branching with the if Decision Statement and the Conditional Operator------------
+Mod 08: Operators, Expressions, and Statements Duration----------------------------------
+Mod 09: for Iterations-------------------------------------------------------------------
+Mod 10: Creating Arrays of Values--------------------------------------------------------
+Mod 11: Creating and Calling Simple Overloaded Helper Methods----------------------------
+Mod 12: while Iterations and Reading Data from a Text File-------------------------------
+Mod 13: Working with Strings-------------------------------------------------------------
+Mod 14: Working with DateTime------------------------------------------------------------
+Mod 15: Understanding and Creating Classes-----------------------------------------------
+Mod 16: More About Classes and Methods---------------------------------------------------
+Mod 17: Working with Classes and Inheritances in the .NET Framework Class Library--------
+Mod 18: Understanding Namespaces and Adding References to Assemblies---------------------
+Mod 19: Understanding Scope and Utilizing Accessibility Modifiers------------------------
+Mod 20: Enumerations and the switch Decision Statement-----------------------------------
+Mod 21: Gracefully Handling Exceptions---------------------------------------------------
+Mod 22: Working with Collections---------------------------------------------------------
+Mod 23: Filtering and Managing Data Collections Using LINQ-------------------------------
+Mod 24: Understanding Event-Driven Programming-------------------------------------------
+Mod 25: Where to Go from Here------------------------------------------------------------
