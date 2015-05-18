@@ -5,13 +5,13 @@ Mod 01: Series Introduction-----------------------------------------------------
 Mod 02: Installing Visual Studio Express 2013 for Windows Desktop------------------------ Complete
 Mod 03: Creating Your First C# Program--------------------------------------------------- Complete (HelloWorld.cs)
 Mod 04: Dissecting the First C# Program You Created-------------------------------------- Complete
-Mod 05: Quick Overview of the Visual C# Express Edition IDE------------------------------ http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/05 (15:18)
-Mod 06: Declaring Variables and Assigning Values Duration-------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/06
-Mod 07: Branching with the if Decision Statement and the Conditional Operator------------ http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/07
-Mod 08: Operators, Expressions, and Statements Duration---------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/08
-Mod 09: for Iterations------------------------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/09
-Mod 10: Creating Arrays of Values-------------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/10
-Mod 11: Creating and Calling Simple Overloaded Helper Methods---------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/11
+Mod 05: Quick Overview of the Visual C# Express Edition IDE------------------------------ Complete
+Mod 06: Declaring Variables and Assigning Values Duration-------------------------------- Complete (Variables.cs)
+Mod 07: Branching with the if Decision Statement and the Conditional Operator------------ Complete (Decision.cs)
+Mod 08: Operators, Expressions, and Statements Duration---------------------------------- Complete
+Mod 09: for Iterations------------------------------------------------------------------- Complete (ForIterations.cs)
+Mod 10: Creating Arrays of Values-------------------------------------------------------- Complete (UnderstandingArrays.cs)
+Mod 11: Creating and Calling Simple Overloaded Helper Methods---------------------------- Complete (HelperMethods.cs)
 Mod 12: while Iterations and Reading Data from a Text File------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/12
 Mod 13: Working with Strings------------------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/13
 Mod 14: Working with DateTime------------------------------------------------------------ http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/14
