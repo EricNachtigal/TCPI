@@ -12,10 +12,10 @@ Mod 08: Operators, Expressions, and Statements Duration-------------------------
 Mod 09: for Iterations------------------------------------------------------------------- Complete (ForIterations.cs)
 Mod 10: Creating Arrays of Values-------------------------------------------------------- Complete (UnderstandingArrays.cs)
 Mod 11: Creating and Calling Simple Overloaded Helper Methods---------------------------- Complete (HelperMethods.cs)
-Mod 12: while Iterations and Reading Data from a Text File------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/12
-Mod 13: Working with Strings------------------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/13
-Mod 14: Working with DateTime------------------------------------------------------------ http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/14
-Mod 15: Understanding and Creating Classes----------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/15
+Mod 12: while Iterations and Reading Data from a Text File------------------------------- Complete (ReadTextFileWhile.cs)
+Mod 13: Working with Strings------------------------------------------------------------- Complete (Strings.cs)
+Mod 14: Working with DateTime------------------------------------------------------------ Complete (DatesAndTimes.cs)
+Mod 15: Understanding and Creating Classes----------------------------------------------- Complete (SimpleClasses.cs)
 Mod 16: More About Classes and Methods--------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/16
 Mod 17: Working with Classes and Inheritances in the .NET Framework Class Library-------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/17
 Mod 18: Understanding Namespaces and Adding References to Assemblies--------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/18
