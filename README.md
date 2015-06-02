@@ -1,2 +1,2 @@
 # Test-Code-Please-Ignore
-Repository for learning C#
+Repository for learning programming
