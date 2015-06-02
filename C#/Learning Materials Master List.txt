@@ -17,8 +17,8 @@ Mod 13: Working with Strings----------------------------------------------------
 Mod 14: Working with DateTime------------------------------------------------------------ Complete (DatesAndTimes.cs)
 Mod 15: Understanding and Creating Classes----------------------------------------------- Complete (SimpleClasses.cs)
 Mod 16: More About Classes and Methods--------------------------------------------------- Complete (ObjectLifetime.cs)
-Mod 17: Working with Classes and Inheritances in the .NET Framework Class Library-------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/17 (18:54 UnderstandingInheritance.cs)
-Mod 18: Understanding Namespaces and Adding References to Assemblies--------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/18
+Mod 17: Working with Classes and Inheritances in the .NET Framework Class Library-------- Complete (UnderstandingInheritance.cs)
+Mod 18: Understanding Namespaces and Adding References to Assemblies--------------------- Complete (NamespacesAndReferencingAssemblies.cs)
 Mod 19: Understanding Scope and Utilizing Accessibility Modifiers------------------------ http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/19
 Mod 20: Enumerations and the switch Decision Statement----------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/20
 Mod 21: Gracefully Handling Exceptions--------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/21
