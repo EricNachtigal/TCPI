@@ -19,8 +19,8 @@ Mod 15: Understanding and Creating Classes--------------------------------------
 Mod 16: More About Classes and Methods--------------------------------------------------- Complete (ObjectLifetime.cs)
 Mod 17: Working with Classes and Inheritances in the .NET Framework Class Library-------- Complete (UnderstandingInheritance.cs)
 Mod 18: Understanding Namespaces and Adding References to Assemblies--------------------- Complete (NamespacesAndReferencingAssemblies.cs)
-Mod 19: Understanding Scope and Utilizing Accessibility Modifiers------------------------ http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/19
-Mod 20: Enumerations and the switch Decision Statement----------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/20
+Mod 19: Understanding Scope and Utilizing Accessibility Modifiers------------------------ Complete (UnderstandingScope.cs)
+Mod 20: Enumerations and the switch Decision Statement----------------------------------- Complete (UsingSwitch.cs, UnderstandingEnumerations.cs)
 Mod 21: Gracefully Handling Exceptions--------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/21
 Mod 22: Working with Collections--------------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/22
 Mod 23: Filtering and Managing Data Collections Using LINQ------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/23
