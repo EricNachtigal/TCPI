@@ -26,15 +26,15 @@ namespace ReadTextFileWhile
                 }
 
                 myReader.Close();
-            }
 
+            }
             catch (DirectoryNotFoundException e)
             {
-                Console.WriteLine("Coulden't find the file. Are you sure the DIRECTORY exists?");
+                Console.WriteLine("Couldn't fine the file.  Are you sure the DIRECTORY exists?");
             }
-            catch (FileNotFoundException e) 
+            catch (FileNotFoundException e)
             {
-                Console.WriteLine("Couldent find the file. Are you sure you are looking for the correct file?");
+                Console.WriteLine("Couldn't find the file.  Are you sure you're looking for the correct file?");
             }
             catch (Exception e)
             {
@@ -42,7 +42,7 @@ namespace ReadTextFileWhile
             }
             finally
             {
-                //Perform any cleanup to roll back the data or close connections
+                // Perform any cleanup to roll back the data or close connections
                 // to files, database, network, etc.
             }
 

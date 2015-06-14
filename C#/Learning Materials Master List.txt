@@ -21,8 +21,14 @@ Mod 17: Working with Classes and Inheritances in the .NET Framework Class Librar
 Mod 18: Understanding Namespaces and Adding References to Assemblies--------------------- Complete (NamespacesAndReferencingAssemblies.cs)
 Mod 19: Understanding Scope and Utilizing Accessibility Modifiers------------------------ Complete (UnderstandingScope.cs)
 Mod 20: Enumerations and the switch Decision Statement----------------------------------- Complete (UsingSwitch.cs, UnderstandingEnumerations.cs)
-Mod 21: Gracefully Handling Exceptions--------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/21
-Mod 22: Working with Collections--------------------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/22
-Mod 23: Filtering and Managing Data Collections Using LINQ------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/23
-Mod 24: Understanding Event-Driven Programming------------------------------------------- http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/24
-Mod 25: Where to Go from Here------------------------------------------------------------ http://channel9.msdn.com/series/C-Fundamentals-for-Absolute-Beginners/25
+Mod 21: Gracefully Handling Exceptions--------------------------------------------------- Complete (ReadTextFileWhile.cs)
+Mod 22: Working with Collections--------------------------------------------------------- Complete (WorkingWithCollections.cs)
+Mod 23: Filtering and Managing Data Collections Using LINQ------------------------------- Complete (UnderstandingLINQ.cs)
+Mod 24: Understanding Event-Driven Programming------------------------------------------- Complete (WPFEvents.cs)
+Mod 25: Where to Go from Here------------------------------------------------------------ Complete :)
+		To Learn -
+			RelationalDatabases
+			Presentation Technology
+			HTML - CSS - JavaScript
+			Object Oriented Program
+			Agile Project Development

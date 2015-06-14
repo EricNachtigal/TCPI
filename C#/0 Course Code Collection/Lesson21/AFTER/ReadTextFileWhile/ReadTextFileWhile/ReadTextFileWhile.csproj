@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{118E033B-6793-43AF-AACB-E03A82C93380}</ProjectGuid>
+    <ProjectGuid>{E87362CA-977E-464E-85C3-C1ABC97E7A17}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ReadTextFileWhile</RootNamespace>
